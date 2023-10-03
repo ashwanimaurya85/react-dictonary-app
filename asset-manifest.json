@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-dictonary-app/static/css/main.7f4b00f3.css",
+    "main.js": "/react-dictonary-app/static/js/main.3d034780.js",
+    "static/js/787.7c5e6a3e.chunk.js": "/react-dictonary-app/static/js/787.7c5e6a3e.chunk.js",
+    "index.html": "/react-dictonary-app/index.html",
+    "main.7f4b00f3.css.map": "/react-dictonary-app/static/css/main.7f4b00f3.css.map",
+    "main.3d034780.js.map": "/react-dictonary-app/static/js/main.3d034780.js.map",
+    "787.7c5e6a3e.chunk.js.map": "/react-dictonary-app/static/js/787.7c5e6a3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f4b00f3.css",
+    "static/js/main.3d034780.js"
+  ]
+}
